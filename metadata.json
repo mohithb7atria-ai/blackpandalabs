@@ -1,0 +1,6 @@
+{
+  "name": "Sprint Command Center",
+  "description": "A futuristic public sprint management platform for challenges, project builds, progress tracking, and showcase entries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
